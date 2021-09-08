@@ -1,2 +1,2 @@
 # Django_1
-Primeiro desenvolvimento python 
+Primeiro desenvolvimento python sss
